@@ -1,7 +1,7 @@
 name: First Iteration
 favicon: null
-layout_spectrum: 0.1392515681218356
-typography_spectrum: 0.4728111275471747
+layout_spectrum: 1
+typography_spectrum: 0.00677
 cta:
   domain: null
   bucket: null
